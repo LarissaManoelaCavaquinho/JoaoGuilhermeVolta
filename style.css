@@ -1,5 +1,4 @@
-style.css
-:root {
+style.css:root {
     --branco-principal: #FFFFFF;
     --cinza-secundarii: #C0C0C0;
     --botao-azul: #167BF7;
@@ -7,8 +6,7 @@ style.css
 }
 
 body {
-    background-color: var(--cor-de-fundo)
-    color: var(--branco-principal)
+    background-color: var(--cor-de-fundo) color: var(--branco-principal)
 }
 
 * {
@@ -25,4 +23,3 @@ body {
 .container {
     height: 100vh;
 }
-
